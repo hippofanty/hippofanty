@@ -1,14 +1,16 @@
+<img align="left" width="150" height="150" alt="Vladimir Melnikov" src="https://ibb.co/BfXF4Hr"/>
+
 ### I'm Vladimir Melnikov 👋
 
 A JavaScript developer from Saint-Petersburg, Russia. I love building MERN applications. I am passionate about video games and drum 'n' bass.
 
 ### My projects:
 
-[ARTNETIC](https://github.com/hippofanty/Artnetic) - Art rental web application (MERN + TypeScript)
-[Easy-Exam](https://github.com/Lgkrsnv/easy-exam) - Service for ordering student works (MongoDB + Express + Handlebars + Node + WebSocket)
-[HorrorNight](https://github.com/hippofanty/HorrorNight) - Horror movies web app (MongoDB + Express + Handlebars + Node)
+- [ARTNETIC](https://github.com/hippofanty/Artnetic) - Art rental web application (MERN + TypeScript)
+- [Easy-Exam](https://github.com/Lgkrsnv/easy-exam) - Service for ordering student works (MongoDB + Express + Handlebars + Node + WebSocket)
+- [HorrorNight](https://github.com/hippofanty/HorrorNight) - Horror movies web app (MongoDB + Express + Handlebars + Node)
 
-### Here is my Tech Stack  🛠
+### 🛠 Here is my Tech Stack
 
 - HTML5 
 - CSS / SASS
