@@ -1,8 +1,10 @@
-<img align="left" width="150" height="150" alt="Vladimir Melnikov" src="https://ibb.co/BfXF4Hr"/>
+<img align="left" width="150" height="150" alt="Vladimir Melnikov" src="https://i.ibb.co/8mWtznd/myAvatar.png"/>
 
 ### I'm Vladimir Melnikov 👋
 
 A JavaScript developer from Saint-Petersburg, Russia. I love building MERN applications. I am passionate about video games and drum 'n' bass.
+
+
 
 ### My projects:
 
